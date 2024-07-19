@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5721881446849730128
+  m_GuidHigh: 8147702438800042943
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5530364144952445648
+      m_GuidHigh: 4753438400117568671
+    m_SerializedTextureGuid:
+      m_GuidLow: 10796301085135428267
+      m_GuidHigh: 11992539291669523802
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: soccer
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5357509740035404072
+      m_GuidHigh: 8362932824504495271
+    m_SerializedTextureGuid:
+      m_GuidLow: 622842402332490282
+      m_GuidHigh: 10433589404846813066
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: basketball
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4618191901993375150
+      m_GuidHigh: 18240265501303253646
+    m_SerializedTextureGuid:
+      m_GuidLow: 5157832190673894177
+      m_GuidHigh: 4221990192565164731
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: baseball
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5570677981398460265
+      m_GuidHigh: 1157038731408066495
+    m_SerializedTextureGuid:
+      m_GuidLow: 3387879488637472931
+      m_GuidHigh: 2251620809933931531
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: badminton
+    m_Texture: {fileID: 0}
